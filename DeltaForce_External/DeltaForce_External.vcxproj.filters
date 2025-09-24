@@ -45,6 +45,15 @@
     <ClInclude Include="Driver.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Game\Engine.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Global.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\offset.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="IMGUI\imgui.cpp">
